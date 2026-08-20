@@ -1,0 +1,1 @@
+<?php require dirname(__DIR__).'/lib.php'; session_destroy(); header('Location: index.php'); exit; ?>
