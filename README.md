@@ -52,8 +52,7 @@ selen/
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
-
+No license is included in this repository. Add a `LICENSE` file of your choice before distributing the project publicly.
 ## Українською (коротко)
 
 Selen — PHP-каталог товарів хімічних реактивів із публічними сторінками товарів, пошуком і адмін-панеллю. Потрібен PHP 8.0+, запис у папку `data/`. Запуск: `php -S 127.0.0.1:8000`. Обов'язково змініть пароль адміністратора після першого входу.
